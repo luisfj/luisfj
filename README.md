@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=luisfj&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfj&langs_count=5&count_private=true&theme=tokyonight)]()
+
+
+##
+
+<div align="center">
+  <a href="https://github.com/luisfj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfj&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+##
